@@ -5,7 +5,7 @@
 ---
 An integrated system that covers basic antenatal checkups, including video conferencing for examination by remote physicians. All the testing data are automatically stored in the cloud via cellular network for further diagnosis. The system is low-cost and lightweight to run in resource-scarce areas.
 
-_This project was awarded Silver Prize at 2018 IFMBE Student Design Competition._
+_This project was awarded Silver Prize at 2018 IFMBE Student Design Competition in Prague, Czech Republic._
 
 ## Motivation
 
@@ -34,19 +34,20 @@ _This project was awarded Silver Prize at 2018 IFMBE Student Design Competition.
 * Abnormal fetal heart rate
 
 ### System Architecture
-![GITHUB](https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague0.png)
-![GITHUB](https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague2.png)
+<img src="https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague0.png" height="400">
+<img src="https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague2.png" height="400">
 
 ### Components
-![GITHUB](https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague3.png)
+<img src="https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague3.png" height="400">
 
 ### User-side Interface
-![GITHUB](https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague5.png)
+<img src="https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague5.png" height="400">
 
 ### Physician-side Interface
-![GITHUB](https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague6.png)
+<img src="https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague6.png" height="400">
 
 ### Product Image
-![GITHUB](https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague4.png)
+<img src="https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/prague4.png" height="400">
 
-## 
+## Award
+<img src="https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/silver-award.jpg" height="400">
