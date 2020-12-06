@@ -7,6 +7,10 @@ An integrated system that covers basic antenatal checkups, including video confe
 
 _This project was awarded Silver Prize at 2018 IFMBE Student Design Competition in Prague, Czech Republic._
 
+<p align="center">
+<img src="https://raw.githubusercontent.com/garry0325/SkyPrenatal/main/Images/skyprenatalgif.gif" height="300">
+</p>
+
 ## Motivation
 
 * 99% of maternal deaths happen in developing countries
